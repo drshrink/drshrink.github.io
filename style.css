@@ -1,0 +1,15 @@
+p {
+    font-size: 150%;
+}
+
+.content > p {
+    color:blue;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
