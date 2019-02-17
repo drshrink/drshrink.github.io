@@ -22,7 +22,7 @@ Tags: light, white,blog,business,multipurpose,one page, single page, custom-colo
 #COUNTER
 #PRICING TABLE
 #TESTIMONIAL
-#FORM BLOG
+#FORM 
 #CLIENT
 #CONTACT
 #FOOTER
@@ -730,7 +730,7 @@ img{
 }
 
 .team-img-1 { 
-	background-image: url(assets/images/bumseok-jeong.jpg);
+	background-image: url(assets/images/bs_black.png);
 }
 
 .team-img-2 { 
@@ -2160,7 +2160,7 @@ img{
       padding: 70px;  
 	}
 	.header-content h2 {
-	  font-size: 60px;
+	  font-size: 50px;
 	  line-height: 58px;  
 	}
 	.knowmore-btn {  
@@ -2253,7 +2253,7 @@ img{
       padding: 50px;  
 	}
 	.header-content h2 {
-	  font-size: 50px;
+	  font-size: 30px;
 	  line-height: 50px;  
 	}
 	.knowmore-btn {  
