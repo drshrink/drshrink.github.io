@@ -1486,10 +1486,10 @@ img{
 /*--------------------*/
 
 #contact {
-	background-image: url("assets/images/contact-bg.jpg");
+	background-image: url("assets/images/ohbm2017.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: 100% 60%;
 	display: inline;
 	float: left;
 	padding: 70px 0;
