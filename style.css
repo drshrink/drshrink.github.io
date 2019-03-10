@@ -1489,18 +1489,18 @@ img{
 	background-image: url("assets/images/ohbm2017.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
-	background-size: 100% 60%;
+	background-size: 70% 60%;
 	display: inline;
 	float: left;
-	padding: 70px 0;
-	width: 100%;
+	padding: 150px 0;
+	width: 85%;
 }
 .contact-left {
 	background-color: rgba(104, 102, 96, 0.5);
 	display: inline;
 	float: left;
 	padding: 30px 40px 10px;
-	width: 100%;
+	width: 180%;
 }
 .contact-left h2 {
 	color: #fafafa;
